@@ -1,0 +1,6 @@
+Personal info
+ Name: Kshtiz Maharjan
+ Age: 22
+ Gender: Male
+ Phone: 9841394097
+ Email: kshitizmaharjan@gmail.com
